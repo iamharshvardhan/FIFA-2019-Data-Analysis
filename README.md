@@ -6,7 +6,7 @@ In this data science project, we will explore the FIFA 2019 Players dataset to g
 
 ## Dataset
 
-The dataset we will be using is the FIFA 2019 Players dataset, which contains information on a wide range of attributes for over 18,000 football players. These attributes include player names, age, nationality, club, preferred positions, player ratings, skills, and more. The dataset can be found [here]("data/FIFA-2019.csv").
+The dataset we will be using is the FIFA 2019 Players dataset, which contains information on a wide range of attributes for over 18,000 football players. These attributes include player names, age, nationality, club, preferred positions, player ratings, skills, and more. The dataset can be found [here]("data\FIFA-2019.csv").
 
 ## Goals
 
