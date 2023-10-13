@@ -1,5 +1,7 @@
 # FIFA 2019 Players Data Analysis Project
 
+<center><img src="https://talksport.com/wp-content/uploads/sites/5/2019/04/GettyImages-1134535138.jpg", height=350></center>
+
 ## Overview
 
 In this data science project, we will explore the FIFA 2019 Players dataset to gain insights into the attributes and characteristics of football players from the popular video game FIFA 2019. We will perform data analysis and create data visualizations to better understand the player statistics and their distribution.
